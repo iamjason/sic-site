@@ -1,11 +1,11 @@
 {
   "$schema": "https://iamjason.github.io/hyrule-compendium-site/schema/hyrule.schema.json",
-  "name": "Purah",
-  "command": "purah",
+  "name": "Sic",
+  "command": "sic",
   "tagline": "Opens text files as written, formats JSON on request, and previews Markdown on your Mac.",
   "status": "beta",
   "language": "Swift",
-  "icon": "https://iamjason.github.io/purah-site/assets/icon.png",
+  "icon": "https://iamjason.github.io/sic-site/assets/icon.png",
   "platforms": ["macos"],
-  "docs": "https://iamjason.github.io/purah-site/"
+  "docs": "https://iamjason.github.io/sic-site/"
 }
